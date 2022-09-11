@@ -1,0 +1,11 @@
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course_Work_RegularGraph.childInputForm.resources
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course_Work_RegularGraph.GraphInterface.resources
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course Work_regularGraph.csproj.GenerateResource.cache
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course Work_regularGraph.csproj.CoreCompileInputs.cache
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\bin\Debug\Course Work_regularGraph.exe.config
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\bin\Debug\Course Work_regularGraph.exe
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\bin\Debug\Course Work_regularGraph.pdb
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course Work_regularGraph.csproj.AssemblyReference.cache
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course_Work_regularGraph.Properties.Resources.resources
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course Work_regularGraph.exe
+C:\Users\goshi\Desktop\RegularGraphsCheck\Course Work_regularGraph\obj\Debug\Course Work_regularGraph.pdb
